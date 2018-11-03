@@ -78,3 +78,9 @@ Then, install nodejs package system npm::
 And last, you need to install ember-precompile Node package::
 
     sudo npm install -g ember-precompile
+    
+    
+
+    
+Support development
+---------------------    
